@@ -1,8 +1,9 @@
-import { Component } from "react";
+import { useState } from "react";
 
-class Header extends Component {
-  render() {
-    const { currentScore, bestScore } = this.props;
+function Header(props) {
+
+    const [currentScore, setCurrentScore] = useState()
+    const [bestScore, setBestScore ] = useState();
     return (
       <header className="App-header">
         <h1>Memory Game</h1>
@@ -19,6 +20,6 @@ class Header extends Component {
       </header>
     );
   }
-}
+
 
 export default Header;
