@@ -1,23 +1,16 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.d-flex {
+body{
   display: flex;
-}
-
-.justify-content-around{
-  justify-content: space-around;
-}
-
-.align-items-center{
+  justify-content: center;
   align-items: center;
 }
+
+.container{
+  height: 700px;
+  width: 700px;
+  background-color: teal
+}
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
