@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HaydenWashburn.github.io/memory-card/static/css/main.5f266d98.css",
+    "main.js": "/HaydenWashburn.github.io/memory-card/static/js/main.0132f426.js",
+    "static/js/787.a2bf511c.chunk.js": "/HaydenWashburn.github.io/memory-card/static/js/787.a2bf511c.chunk.js",
+    "index.html": "/HaydenWashburn.github.io/memory-card/index.html",
+    "main.5f266d98.css.map": "/HaydenWashburn.github.io/memory-card/static/css/main.5f266d98.css.map",
+    "main.0132f426.js.map": "/HaydenWashburn.github.io/memory-card/static/js/main.0132f426.js.map",
+    "787.a2bf511c.chunk.js.map": "/HaydenWashburn.github.io/memory-card/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f266d98.css",
+    "static/js/main.0132f426.js"
+  ]
+}
